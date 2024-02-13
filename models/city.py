@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" City Module for HBNB project 
+""" City Module for HBNB project
 
 Defines the City class representing cities in HBNB.
 """
