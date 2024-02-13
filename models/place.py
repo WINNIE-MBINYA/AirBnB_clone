@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Place Module for HBNB project 
+""" Place Module for HBNB project
 
 Defines the Place class representing a place to stay.
 """
